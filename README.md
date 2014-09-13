@@ -29,4 +29,4 @@ El usuario descarga la app **Moves** y la conecta con **CFPG**.
 
 **Powered by Bit5orGtf0**
 
-** Made in the [Hack4goodstgo](https://www.facebook.com/hack4goodsantiago?fref=ts) **
+Made in the [Hack4goodstgo](https://www.facebook.com/hack4goodsantiago?fref=ts)
