@@ -1,4 +1,4 @@
-## Carbon FootPrint Game ( codename: **CFPG**)
+## Carbon FootPrint Game (a cool game with an awful name)
 ### Descripción:
 *not final idea*
 

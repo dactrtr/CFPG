@@ -11,10 +11,10 @@
 	<key>fonts</key>
 	<array>
 		<string>AvenirNext-Bold</string>
-		<string>AvenirNext-Medium</string>
+		<string>AvenirNext-Regular</string>
 	</array>
 	<key>length</key>
-	<integer>235526</integer>
+	<integer>263534</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
