@@ -4,7 +4,9 @@
 
 Juego de realidad alternativa donde mediante la medición de la huella de carbono del usuario este va mejorando/evolucionando una mascota, además de medir la HDC del usuario a este se le van dando consejos de como disminuir mas su HDC.
 
-Temas a tratar en la beta: transporte y alimentación.
+Temas a tratar: transporte.
+
+Próximamente:alimentación.
 
 ####Features:
 - Logros
