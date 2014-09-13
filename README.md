@@ -28,3 +28,5 @@ El usuario descarga la app **Moves** y la conecta con **CFPG**.
 **Alimentación**: Para medir esta data se le pedirá al usuario registrar sus horarios de alimentacion principales (almuerzo y cena), la app en estas horas definidas le preguntará al usuario como se ha alimentado (selección de una lista) con lo cual se calculará su huella de carbono.
 
 **Powered by Bit5orGtf0**
+
+** Made in the [Hack4goodstgo](https://www.facebook.com/hack4goodsantiago?fref=ts)**
