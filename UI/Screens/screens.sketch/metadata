@@ -12,9 +12,10 @@
 	<array>
 		<string>TitanOne</string>
 		<string>AvenirNext-Bold</string>
+		<string>AvenirNext-Regular</string>
 	</array>
 	<key>length</key>
-	<integer>198550</integer>
+	<integer>568953</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
