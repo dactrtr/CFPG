@@ -31,4 +31,4 @@ El usuario descarga la app **Moves** y la conecta con **CFPG**.
 
 Made in the [Hack4goodstgo](https://www.facebook.com/hack4goodsantiago)
 
-Flinto prototype here:[click here] (https://www.flinto.com/p/acd462e7)
+Flinto prototype here **(HEY!! the prototype will be only only for the next 30 days since 14-9-2014)**: [click] (https://www.flinto.com/p/acd462e7)
