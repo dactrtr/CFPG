@@ -1,0 +1,1558 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Geeklist #hack4good 0.6 Spreecasts Schedule
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC:All this week leading up to the hackathon\, non-profits and AP
+ I partners from all around the world will be sharing their challenges\, ide
+ as and APIs to get you ready to hack and solve problems for humanity at #ha
+ ck4good 0.5
+BEGIN:VEVENT
+DTSTART:20140917T140000Z
+DTEND:20140917T150000Z
+DTSTAMP:20140917T022431Z
+UID:oki0gj9begn7drm4dcohdtknn4@google.com
+CREATED:20140916T144940Z
+DESCRIPTION:This is the first of two Global Challenge Judging sessions for 
+ the "Consumer Behaviour" challenge theme of the Geeklist #hack4good 0.6 aga
+ inst climate change.\n\nWinning teams from each city\, along with the winni
+ ng virtual team addressing this challenge theme will present to a panel of 
+ expert judges\, who will assess teams according to their potential for impa
+ ct\, selecting a Winner and Runner-up for "Consumer Behaviour - Food and Sh
+ opping".\n\nFormat: 3-minute presentation/demo + 2-minutes Q&A for each tea
+ m\n\nJudging Criteria:\nhttps://hack4good.hackpad.com/Judging-Process-XX9Qt
+ hXGJDs#:h=Judging-criteria\n\nGlobal Challenge Finalists:\n- Green Fairy (V
+ irtual / San Francisco)\n- Grab Greener (Berlin)\n- Eco-Friendly Product Sp
+ otter Chrome Extension (Istanbul)\n- BuyMeBuy (New York)\n- Green Shopping 
+ (Berlin)\n- ECOnsumption (Baguio)\n- Hunt&Gather(Melbourne)\n
+LAST-MODIFIED:20140917T015553Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Consumer Behaviour A - Food and Shopping" Global Challe
+ nge Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T090000Z
+DTEND:20140917T100000Z
+DTSTAMP:20140917T022431Z
+UID:v844hd6hvcd7p5vdguv2ghc6j0@google.com
+CREATED:20140916T143935Z
+DESCRIPTION:* MOVED BY 1 HOUR *\n\nThis is the Global Challenge Judging for
+  the "Public Awareness" challenge theme of the Geeklist #hack4good 0.6 agai
+ nst climate change.\n\nWinning teams from each city\, along with the winnin
+ g virtual team addressing this challenge theme will present to a panel of e
+ xpert judges\, who will assess teams according to their potential for impac
+ t\, selecting an overall Winner and Runner-up for "Public Awareness".\n\nFo
+ rmat: 3-minute presentation/demo + 2-minutes Q&A for each team\n\nJudging C
+ riteria:\nhttps://hack4good.hackpad.com/Judging-Process-XX9QthXGJDs#:h=Judg
+ ing-criteria\n\nGlobal Challenge Finalists:\n- Boresha mazingira (Nairobi)\
+ n- Seal Power (Berlin)\n- SensoAir (New Delhi)\n- Digital Awareness\, Publi
+ c Awareness (Mumbai)\n- Promoting local produce (Krakow)
+LAST-MODIFIED:20140917T012005Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Public Awareness" Global Challenge Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T060000Z
+DTEND:20140917T070000Z
+DTSTAMP:20140917T022431Z
+UID:uoq4t1nun5um5h8pu5dnro0u74@google.com
+CREATED:20140907T005406Z
+DESCRIPTION:This is the Global Challenge Judging for "Reforestation" challe
+ nge theme of the Geeklist #hack4good 0.6 against climate change.\n\nWinning
+  teams from each city\, along with the winning virtual team addressing this
+  challenge theme will present to a panel of expert judges\, who will assess
+  teams according to their potential for impact\, selecting an overall Winne
+ r and Runner-up for "Reforestation".\n\nFormat: 3-minute presentation/demo 
+ + 2-minutes Q&A for each team\n\nJudging Criteria:\nhttps://hack4good.hackp
+ ad.com/Judging-Process-XX9QthXGJDs#:h=Judging-criteria\n\nJudging Panel:\n-
+  Marie-Noelle Keijzer\, Co-founder & CEO of WeForest\n- Bill Liao\, Co-foun
+ der of WeForest\n- Victoria Guiterrez\, Director of Planting Projects\, WeF
+ orest\n- Renaud VIsage\, Co-founder & CTO\, Eventbrite\n\nWe may also be jo
+ ined by:\n- David Sumares\, Science Manager\, WeForest\n- Lars Laestadius\,
+  Senior Associate\, World Resources Institute\n\nGlobal Challenge Finalists
+ :\n- Click4Good (Mumbai)\n- fuel2forest (Istanbul)\n- Treemo (Virtual / San
+  Francisco)
+LAST-MODIFIED:20140917T004816Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Reforestation" Global Challenge Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T100000Z
+DTEND:20140917T110000Z
+DTSTAMP:20140917T022431Z
+UID:m9r5mghc8mahn3u1glljk6k4h4@google.com
+CREATED:20140907T014049Z
+DESCRIPTION:* MOVED BY 1 HOUR *\n\nThis is the Global Challenge Judging for
+  combined "Personal Impact and Compelling Visualisation" challenge theme of
+  the Geeklist #hack4good 0.6 against climate change.\n\nWinning teams from 
+ each city\, along with the winning virtual team addressing this challenge t
+ heme will present to a panel of expert judges\, who will assess teams accor
+ ding to their potential for impact\, selecting an overall Winner and Runner
+ -up for "Personal Impact and Compelling Visualisation".\n\nFormat: 3-minute
+  presentation/demo + 2-minutes Q&A for each team\n\nJudging Criteria:\nhttp
+ s://hack4good.hackpad.com/Judging-Process-XX9QthXGJDs#:h=Judging-criteria\n
+ \nGlobal Challenge Finalists:\n- ECOnsumption (Baguio)\n- Carbon (Nairobi)\
+ n- My Future Climate (Virtual / MN USA)\n- Local Leaf (Istanbul)\n- Forecas
+ t 2050 (Asheville)\n- GeQu (Hyderabad)
+LAST-MODIFIED:20140917T003229Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Personal Impact and Visualisation" Global Challenge Jud
+ ging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T180000Z
+DTEND:20140917T190000Z
+DTSTAMP:20140917T022431Z
+UID:as86r7korb39e8r58jdnu3ifrk@google.com
+CREATED:20140916T145536Z
+DESCRIPTION:This is the second of two Global Challenge Judging sessions for
+  the "Consumer Behaviour" challenge theme of the Geeklist #hack4good 0.6 ag
+ ainst climate change.\n\nWinning teams from each city\, along with the winn
+ ing virtual team addressing this challenge theme will present to a panel of
+  expert judges\, who will assess teams according to their potential for imp
+ act\, selecting a Winner and Runner-up for "Consumer Behaviour - Games and 
+ Challenges".\n\nFormat: 3-minute presentation/demo + 2-minutes Q&A for each
+  team\n\nJudging Criteria:\nhttps://hack4good.hackpad.com/Judging-Process-X
+ X9QthXGJDs#:h=Judging-criteria\n\nGlobal Challenge Finalists:\n- H.O.P.E (B
+ angalore)\n- Challenge Wave (Moscow)\n- OurPlanet (Hyderabad)\n- Emrals and
+  eCan (New York)\n- Sloop (Virtual / MN)\n- WePromise: Learn\, Pledge\, Cha
+ llenge (Virtual)\n
+LAST-MODIFIED:20140917T003157Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Consumer Behaviour B - Games and Challenges" Global Cha
+ llenge Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T130000Z
+DTEND:20140917T140000Z
+DTSTAMP:20140917T022431Z
+UID:tpoehjovra8ds734gq1qh3rkfo@google.com
+CREATED:20140907T021150Z
+DESCRIPTION:This is the Global Challenge Judging for "Ecosystems and Nature
+ " challenge theme of the Geeklist #hack4good 0.6 against climate change.\n\
+ nWinning teams from each city\, along with the winning virtual team address
+ ing this challenge theme will present to a panel of expert judges\, who wil
+ l assess teams according to their potential for impact\, selecting an overa
+ ll Winner and Runner-up for "Ecosystems and Nature".\n\nFormat: 3-minute pr
+ esentation/demo + 2-minutes Q&A for each team\n\nJudging Criteria:\nhttps:/
+ /hack4good.hackpad.com/Judging-Process-XX9QthXGJDs#:h=Judging-criteria\n\nG
+ lobal Challenge Finalists:\n- PalmDetective (Amsterdam)\n- Treevotion (Lond
+ on)\n- Detecting Forest Degradation by Drone (Dublin)\n- Science Ping(Victo
+ ria BC)
+LAST-MODIFIED:20140916T171013Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Ecosystems and Nature" Global Challenge Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T150000Z
+DTEND:20140917T160000Z
+DTSTAMP:20140917T022431Z
+UID:5l9qr5n7mrc0v8q7k2oqccb510@google.com
+CREATED:20140907T021845Z
+DESCRIPTION:This is the Global Challenge Judging for the combined "Resilien
+ t Communities and Impacts of Extreme Weather" challenge theme of the Geekli
+ st #hack4good 0.6 against climate change.\n\nWinning teams from each city\,
+  along with the winning virtual team addressing this challenge theme will p
+ resent to a panel of expert judges\, who will assess teams according to the
+ ir potential for impact\, selecting an overall Winner and Runner-up for "Re
+ silient Communities and Impacts of Extreme Weather".\n\nFormat: 3-minute pr
+ esentation/demo + 2-minutes Q&A for each team\n\nJudging Criteria:\nhttps:/
+ /hack4good.hackpad.com/Judging-Process-XX9QthXGJDs#:h=Judging-criteria\n\nG
+ lobal Challenge Finalists:\n- Ecowatch (Baguio)\n- HolePatchers (Krakow)\n-
+  EbolaWatch (Virtual)\n- Rain (Nairobi)
+LAST-MODIFIED:20140916T164915Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Resilient Communities and Impacts of Extreme Weather" G
+ lobal Challenge Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140921T134500Z
+DTEND:20140921T151500Z
+DTSTAMP:20140917T022431Z
+UID:hk5cnoukj6dstji3ng6nns8l6c@google.com
+CREATED:20140916T111901Z
+DESCRIPTION:*Google Hangouts link for Presenters and Judges to be shared*\n
+ \nJUDGES AND PRESENTERS SHOULD JOIN AT 14:45 BST / 09:45 EDT FOR SET UP\n\n
+ LIVE BROADCAST TIME:\n07.00am PDT / 10.00am EDT / 3.00pm BST / 4.00pm CEST 
+ / 5.00pm EEST / 7.30pm IST\n\nLast weekend 1032 software developers\, produ
+ ct designers and technology innovators united worldwide to build innovative
+  technology-driven projects to address 15 major climate change challenges f
+ acing humanity.\n\n"Geeklist #hack4good against climate change" (http://hac
+ k4good.io) was the biggest ever multi-city hackathon focused on addressing 
+ climate issue.\n\n146 projects were built by teams who came together in mor
+ e than 30 global city venues as well as many more participating online and 
+ virtually.\n\nFrom these\, 6 will be selected as Global Grand Finalists - r
+ epresenting the teams and projects assessed by our Global Challenge Judges 
+ as having the highest potential for widespread global impact.\n\nTeams will
+  present to a Grand Finals Judging Panel comprised of world leaders in Clim
+ ate Science\, Policy\, Advocacy and Action\, experts on Sustainability\, De
+ velopment and Social Impact and Entrepreneurial Technology leaders.\n\nFORM
+ AT:\nEach of the 6 finalists will deliver a 3-minute demo and presentation\
+ , followed by 2 minutes of open Q&A with the judging panel.\n\nVIRTUAL SESS
+ ION:\n* This is a virtual judging session\, taking place on Google Hangouts
+  on Air\n* Teams will be able to screenshare to show slides and demonstrate
+  their projects\n* The session will be broadcast live on the Geeklist #hack
+ 4good YouTube channel (http://bit.ly/hack4goodlive)\n\nAGENDA (London time 
+ - BST):\n14:45 Set up\n15:00 Welcome and Introductions\n15:15 Team 1\n15:20
+  Team 2\n15:25 Team 3\n15:30 Team 4\n15:35 Team 5\n15:40 Team 6\n15:45 Judg
+ es deliberations (off-air in separate channel)\n15:45 While judges are deli
+ berating we will share some thank yous along with some news and information
+  about Geeklist #hack4good and getting involved in future events\n16:00 Ann
+ ouncement of Global Winners\n16:15 Close\n\nAGENDA (New York time - EDT):\n
+ 09:45 Set up\n10:00 Welcome and Introductions\n10:15 Team 1\n10:20 Team 2\n
+ 10:25 Team 3\n10:30 Team 4\n10:35 Team 5\n10:40 Team 6\n10:45 Judges delibe
+ rations (off-air in separate channel)\n10:45 While judges are deliberating 
+ we will share some thank yous along with some news and information about Ge
+ eklist #hack4good and getting involved in future events\n11:00 Announcement
+  of Global Winners\n11:15 Close\n\nTEAMS:\nFinalists will be selected on We
+ dnesday 17 September.\n\nAll judges will be provided with briefing packs on
+  the Global Finalists on Thursday 18 September.
+LAST-MODIFIED:20140916T163336Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good GLOBAL GRAND FINALS
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T160000Z
+DTEND:20140917T173000Z
+DTSTAMP:20140917T022431Z
+UID:253qgbivbl0fjbmtjor31d8ang@google.com
+CREATED:20140907T022350Z
+DESCRIPTION:This is the Global Challenge Judging for three of the challenge
+  themes - "Digital Activism"\, "Collaboration" and "International Negotiati
+ ons" - of the Geeklist #hack4good 0.6 against climate change.\n\nWinning te
+ ams from each city\, along with the winning virtual team addressing this ch
+ allenge theme will present to a panel of expert judges\, who will assess te
+ ams according to their potential for impact\, selecting an overall Winner f
+ or each challenge:\n- Digital Activism\n- Collaboration\n- International Ne
+ gotiations\n\nFormat: 3-minute presentation/demo + 2-minutes Q&A for each t
+ eam\n\nJudging Criteria:\nhttps://hack4good.hackpad.com/Judging-Process-XX9
+ QthXGJDs#:h=Judging-criteria\n\nGlobal Challenge Finalists - Digital Activi
+ sm:\n- Act (Bangalore)\n- WWF-life (Moscow)\n- Earth Issue Tracker (Amsterd
+ am)\n\nGlobal Challenge Finalists - Collaboration:\n- GreeLog (Mumbai)\n- F
+ oodSurfing (Krakow)\n- Earth Hour Climate Wiki (Virtual / India)\n- Cozzy (
+ New Delhi)\n\nGlobal Challenge Finalists - International Negotiations:\n- C
+ ollectiveChange (New York)\n- startagree (Amsterdam / Southampton)\n
+LAST-MODIFIED:20140916T163029Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Digital Activism"\, "Collaboration" and "International 
+ Negotiations" Global Challenge Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140917T070000Z
+DTEND:20140917T080000Z
+DTSTAMP:20140917T022431Z
+UID:sp76fm7g46qbjr2828at2i23sg@google.com
+CREATED:20140907T012930Z
+DESCRIPTION:This is the Global Challenge Judging for the combined "Energy a
+ nd Sustainable Business" challenge theme of the Geeklist #hack4good 0.6 aga
+ inst climate change.\n\nWinning teams from each city\, along with the winni
+ ng virtual team addressing this challenge theme will present to a panel of 
+ expert judges\, who will assess teams according to their potential for impa
+ ct\, selecting an overall Winner and Runner-up for "Energy and Sustainable 
+ Business".\n\nFormat: 3-minute presentation/demo + 2-minutes Q&A for each t
+ eam\n\nJudging Criteria:\nhttps://hack4good.hackpad.com/Judging-Process-XX9
+ QthXGJDs#:h=Judging-criteria\n\nJudging Panel:\n- Sally Uren\, CEO\, Forum 
+ for the Future\n- Hugh Knowles\, Head of Innovation\, Forum for the Future\
+ n- Yme Bosma\, Program Director\, Smart Energy\, Rockstart Accelerator\n- m
+ ore judges tbc!\n\nGlobal Challenge Finalists:\n- Purify M.E (Bangalore)\n-
+  Low Carbon Councils (London)\n- Electric Grid (Hyderabad)\n- Run on Sun (L
+ ondon)\n
+LAST-MODIFIED:20140916T143434Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Energy and Sustainable Business" Global Challenge Judgi
+ ng
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140915T210000Z
+DTEND:20140915T220000Z
+DTSTAMP:20140917T022431Z
+UID:no01ifve0m3chd6seeetqne5ok@google.com
+CREATED:20140907T024027Z
+DESCRIPTION:LINK FOR PRESENTERS AND JUDGES:\nhttps://plus.google.com/hangou
+ ts/_/ytl/vjVQa1PpcFN1NCM9UbmqE6XVslpojEd9J8VZYYRArWo=\n\nLINK TO WATCH:\nht
+ tp://youtu.be/f9XREBaTnHo\n\n\nAt this judging session for Geeklist #hack4g
+ ood 0.6\, virtual teams entering projects into the "Digital Activism" + "Co
+ nsumer Behaviour" challenge theme\, will present their projects to a global
+  judging panel.\n\nThe team assessed to have the greatest potential for imp
+ act will go forwards along with city winners to the Global Challenge Judgin
+ g session on Wednesday.\n\nFormat: 3-minute presentation/demo + 2-minutes Q
+ &A for each team\n\nJudging Criteria:\nhttps://hack4good.hackpad.com/Judgin
+ g-Process-XX9QthXGJDs#:h=Judging-criteria\n\nJudging Panel:\n- Jon Warnow\,
+  350.org\n- Thomas Stocking\, Gandi.net\n- Peter Olson\, Director\, Creativ
+ e Technologist\, IDEO\n\nTeams:\n\nGreen Fairy\n- Git Repos: https://git.ge
+ ekli.st/dibyo/greenfairy/blob/master/Readme.md \n- Achievement card with Vi
+ deo: https://geekli.st/knicholas/we-built-green-fairy-at-geeklist-hack4good
+ -06-in-san-francisco\n\n
+LAST-MODIFIED:20140915T153354Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Digital Activism" + "Consumer Behaviour" Virtual Teams 
+ Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140915T190000Z
+DTEND:20140915T200000Z
+DTSTAMP:20140917T022431Z
+UID:eqf01rt67c8mv35kflriebcguo@google.com
+CREATED:20140907T023129Z
+DESCRIPTION:LINK FOR PRESENTERS AND JUDGES:\nhttps://plus.google.com/hangou
+ ts/_/ytl/vjVQa1PpcFOgZhC6mNN81ANFPJeiRfAT0TbOIFGMO_c=\n\nLINK TO WATCH:\nht
+ tp://youtu.be/wyMAaek2rHo\n\nAt this judging session for Geeklist #hack4goo
+ d 0.6\, virtual teams entering projects into the "Extreme Water Impacts" + 
+ "Intense Heat Impacts" challenge themes\, will present their projects to a 
+ global judging panel.\n\nThe team assessed to have the greatest potential f
+ or impact will go forwards along with city winners to the Global Challenge 
+ Judging session on Wednesday.\n\nFormat: 3-minute presentation/demo + 2-min
+ utes Q&A for each team\n\nJudging Criteria:\nhttps://hack4good.hackpad.com/
+ Judging-Process-XX9QthXGJDs#:h=Judging-criteria\n\nJudging Panel:\n- Marina
+  Psaros\, co-lead of King Tides International\n- Heather Bauer\, co-lead of
+  King Tides International\n- more judges tbc!\n\nTeams:\n- to be announced
+LAST-MODIFIED:20140915T153150Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Extreme Water Impacts" Virtual Teams Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140915T160000Z
+DTEND:20140915T170000Z
+DTSTAMP:20140917T022431Z
+UID:p9pvsuuaao1ie7afke2upamj44@google.com
+CREATED:20140907T022311Z
+DESCRIPTION:LINK FOR PRESENTERS AND JUDGES:\nhttps://plus.google.com/hangou
+ ts/_/ytl/vjVQa1PpcFP5rMA1vErim9z52jRslUh6lf-XxGe8r0k=\n\nLINK TO WATCH:\nht
+ tp://youtu.be/ZWBdrlsiLos\n\nAt this judging session for Geeklist #hack4goo
+ d 0.6\, virtual teams entering projects into the "Personal Impact" + "Publi
+ c Awareness" challenge themes\, will present their projects to a global jud
+ ging panel.\n\nThe team assessed to have the greatest potential for impact 
+ will go forwards along with city winners to the Global Challenge Judging se
+ ssion on Wednesday.\n\nFormat: 3-minute presentation/demo + 2-minutes Q&A f
+ or each team\n\nJudging Criteria:\nhttps://hack4good.hackpad.com/Judging-Pr
+ ocess-XX9QthXGJDs#:h=Judging-criteria\n\nTeams:\n\nLearn\, Pledge\, Challen
+ ge\nhttps://geekli.st/hackathon/hack4good-06/project/54130703bf5af6fe133802
+ 19\n\nSloop\nhttps://geekli.st/hackathon/hack4good-06/project/5413cb4bcb6b5
+ 1cd049cebbf?tab=about\n
+LAST-MODIFIED:20140915T152936Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Personal Impact" + "Public Awareness" Virtual Teams Jud
+ ging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140915T150000Z
+DTEND:20140915T160000Z
+DTSTAMP:20140917T022431Z
+UID:kq1o0bnr6o3db3olt6q89vubgk@google.com
+CREATED:20140907T021756Z
+DESCRIPTION:LINK FOR PRESENTERS AND JUDGES:\nhttps://plus.google.com/hangou
+ ts/_/ytl/vjVQa1PpcFNI9UO1QLLujn8x_5oJlg7pLOIYrOBb8pw=\n\nLINK TO WATCH:\nht
+ tp://youtu.be/aKkPlkDg6-w\n\nAt this judging session for Geeklist #hack4goo
+ d 0.6\, virtual teams entering projects into the "Resilient Communities" ch
+ allenge theme\, will present their projects to a global judging panel.\n\nT
+ he team assessed to have the greatest potential for impact will go forwards
+  along with city winners to the Global Challenge Judging session on Wednesd
+ ay.\n\nFormat: 3-minute presentation/demo + 2-minutes Q&A for each team\n\n
+ Judging Criteria:\nhttps://hack4good.hackpad.com/Judging-Process-XX9QthXGJD
+ s#:h=Judging-criteria\n\nJudging Panel:\n- Ali Llewelyn\, Founder\, NASA Sp
+ ace Apps\n- Taz Burwaiss\, Social Media Community Coordinator\, Lead Intern
+ ational\n\nTeams:\n- EbolaWatch.io - Viral Early Warning System\n\nhttps://
+ geekli.st/rjdn/ebolawatchio-viral-early-warning-system\n\nhttps://geekli.st
+ /hackathon/hack4good-06/project/53f6d7a094cd319305630937
+LAST-MODIFIED:20140915T151819Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Resilient Communities" Virtual Teams Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140915T120000Z
+DTEND:20140915T130000Z
+DTSTAMP:20140917T022431Z
+UID:lh4djkqbdpqqur9oeofm7rgdlc@google.com
+CREATED:20140907T013915Z
+DESCRIPTION:LINK TO JOIN GOOGLE HANGOUT ON AIR:\nhttps://plus.google.com/ha
+ ngouts/_/ytl/vjVQa1PpcFNbRO5aKGbl4ZUhbzPDlQx3bq9U6Hl0YZ8=\n\nAt this judgin
+ g session for Geeklist #hack4good 0.6\, virtual teams entering projects int
+ o the "Compelling Visualisation" challenge theme\, will present their proje
+ cts to a global judging panel.\n\nThe team assessed to have the greatest po
+ tential for impact will go forwards along with city winners to the Global C
+ hallenge Judging session on Wednesday.\n\nFormat: 3-minute presentation/dem
+ o + 2-minutes Q&A for each team\n\nJudging Criteria:\nhttps://hack4good.hac
+ kpad.com/Judging-Process-XX9QthXGJDs#:h=Judging-criteria\n\nJudges:\n- Andr
+ ew Hill\, Senior Scientist\, CartoDB\n\nTeams:\n- MyFutureClimate / https:/
+ /geekli.st/hackathon/hack4good-06/project/5414c07d1c363f370480641f / http:/
+ /myfutureclimate.com
+LAST-MODIFIED:20140915T120641Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Visualisation" Virtual Teams Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140915T060000Z
+DTEND:20140915T070000Z
+DTSTAMP:20140917T022431Z
+UID:ki0l2bm70q52im1l2lefe6fc88@google.com
+CREATED:20140907T005102Z
+DESCRIPTION:At this judging session for Geeklist #hack4good 0.6\, virtual t
+ eams entering projects into the "Reforestation" challenge theme\, will pres
+ ent their projects to a global judging panel.\n\nThe team assessed to have 
+ the greatest potential for impact will go forwards along with city winners 
+ to the Global Challenge Judging session on Wednesday.\n\nFormat: 3-minute p
+ resentation/demo + 2-minutes Q&A for each team\n\nJudging Criteria:\nhttps:
+ //hack4good.hackpad.com/Judging-Process-XX9QthXGJDs#:h=Judging-criteria\n\n
+ Judging Panel:\n- Marie-Noelle Keijzer\, Co-founder & CEO of WeForest\n- Bi
+ ll Liao\, Co-founder of WeForest\n- Victoria Guiterrez\, Director of Planti
+ ng Projects\, WeForest\n- David Sumares\, Science Manager\, WeForest\n- Lar
+ s Laestadius\, Senior Associate\, World Resources Institute\n\nTeams:\n- to
+  be announced on Sunday 14th September
+LAST-MODIFIED:20140915T055157Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Reforestation" Virtual Teams Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140911T150000Z
+DTEND:20140911T160000Z
+DTSTAMP:20140917T022431Z
+UID:suogrbvjlvlsebakmv4inn2058@google.com
+CREATED:20140906T195111Z
+DESCRIPTION:SPREECAST LINK:\nhttp://www.spreecast.com/events/save-the-child
+ ren-at-hack4good-0-6\n\n**UPDATE: We'll also be joined by Nick Hall – Head 
+ of Disaster Risk Reduction and Climate Change Adaptation**\n\nTHURSDAY 11 S
+ EPTEMBER\n08.00 PDT / 11.00 EDT / 16.00 BST / 17.00 CEST / 18.00 EEST / 20.
+ 30 IST\n\n"How might we help individuals and families understand their pers
+ onal impact and carbon footprint\, shift to climate-friendly behaviours and
+  reduce carbon-intensive consumption?"\n\nSave the Children invests in chil
+ dhood – every day\, in times of crisis and for our future. In 120 countries
+  around the world\, they give children a healthy start\, the opportunity to
+  learn and protection from harm. By transforming children's lives now\, the
+ y change the course of their future and ours.\n\nChildren and young people 
+ have the right to a safe future\, but this will only be possible if action 
+ is taken to counter climate change through emissions reductions and if deve
+ lopment is climate-resilient.\n\nWe'll be working with Save the Children to
+  address issues including building tools for activists\, mobilising support
+ ers to take action\, volunteer engagement and empowerment of children.\n\nT
+ o learn more\, you're invited to join a global webcast and live Q&A session
+  with Sepi Golzari\, Climate Change and Sustainable Growth Adviser for Save
+  the Children.
+LAST-MODIFIED:20140911T110322Z
+LOCATION:Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good + Save the Children: Personal Impact [Global Webcast]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140910T170000Z
+DTEND:20140910T180000Z
+DTSTAMP:20140917T022431Z
+UID:e1ih5drn7lapkpa6ri5hmuqth8@google.com
+CREATED:20140906T223327Z
+DESCRIPTION:LINK TO JOIN SPREECAST:\nhttp://www.spreecast.com/events/wefore
+ st-wri-at-hack4good-0-6\n\nWEDNESDAY 10 SEPTEMBER\n10.00 PDT / 13.00 EDT / 
+ 18.00 BST / 19.00 CEST / 20.00 EEST / 22.30 IST\n\n"How can we reduce defor
+ estation and stimulate massive reforestation?"\n\nWeForest's mission is to 
+ sustainably reforest 20 Million km² of our precious Earth by 2020. To date\
+ , WeForest donors have funded six million trees for its reforestation proje
+ cts. Companies and individuals globally are joining WeForest in the movemen
+ t to use trees to heal the Earth.\n\nThe World Resources Institute (WRI) is
+  a global research organization that works closely with leaders to turn big
+  ideas into action to sustain a healthy environment—the foundation of econo
+ mic opportunity and human well-being. Its work focuses on six critical issu
+ es at the intersection of environment and development: climate\, energy\, f
+ ood\, forests\, water\, and cities and transport.\n\nGet involved on Wednes
+ day by joining our exclusive global webcast with Marie-Noëlle Keijzer\, Co-
+ founder & CEO of WeForest and David Sumares\, Science Manager for WeForest\
+ , and Lars Laestadius\, Senior Associate\, Forest Landscape Restoration\, a
+ t the World Resources Institute.
+LAST-MODIFIED:20140911T092932Z
+LOCATION:Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good + WeForest + WRI: Reforestation [Global Webcast]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140910T150000Z
+DTEND:20140910T160000Z
+DTSTAMP:20140917T022431Z
+UID:eu4vt6lv515outd4m4l5lvp8gs@google.com
+CREATED:20140906T215018Z
+DESCRIPTION:SPREECAST LINK:\nhttp://www.spreecast.com/events/fauna-flora-in
+ tl-at-hack4good-0-6\n\nWEDNESDAY 10 SEPTEMBER\n08.00 PDT / 11.00 EDT / 16.0
+ 0 BST / 17.00 CEST / 18.00 EEST / 20.30 IST\n\n"How might we ensure the pro
+ tection and restoration of natural\, resilient ecosystems and conserve biod
+ iversity in the face of climate change?"\n\nFauna & Flora International (FF
+ I) is conserving the planet’s threatened species & ecosystems with the peop
+ le & communities who depend on them. FFI's work spans across the globe\, wi
+ th over 140 projects in over 40 countries. \n\nFFI are renowned for innovat
+ ive\, landmark programmes\, many of which have come to be regarded as bench
+ mark examples of conservation practice. Alongside Geeklist #hack4good they 
+ are launching their "Conservation Labs" – a new initiative to foster innova
+ tion and encourage the development of technology-based solutions to conserv
+ ation challenges globally.\n\nGet involved and learn more about these on th
+ e global webcast and live Q&A session with:\n- Gavin Shelton\, Head of Cons
+ ervation Labs\, Conservation Science & Design at FFI\n- Josh Kempinksi (Tec
+ hnical Advisor\, REDD+ and Carbon Finance)\n- David Gill (Global Trees Camp
+ aign)\n- Katie Lee-Brooks (FFI’s Impact Manager)
+LAST-MODIFIED:20140910T131154Z
+LOCATION:Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good + Fauna & Flora International: Ecosystems and Nature [Gl
+ obal Webcast]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140911T170000Z
+DTEND:20140911T180000Z
+DTSTAMP:20140917T022431Z
+UID:ucr4co8iorfq9rvvvinnb3t1do@google.com
+CREATED:20140906T230342Z
+DESCRIPTION:LINK TO JOIN SPREECAST:\nhttp://www.spreecast.com/events/cartod
+ b-at-geeklist-hack4good-0-6\n\nTHURSDAY 11 SEPTEMBER - 6.00pm BST\n10.00 PD
+ T / 13.00 EDT / 18.00 BST / 19.00 CEST / 20.00 EEST / 22.30 IST\n\nAhead of
+  the Geeklist #hack4good against climate change\, learn all about Geospatia
+ l Mapping and Visualisation and see some amazing real-world examples with A
+ PI partners CartoDB.\n\nCartoDB is a cloud-based platform to visualize\, an
+ alyze\, and develop your geospatial applications. From the CartoDB Editor (
+ a browser-based editor to create your data-based maps) to the CartoDB Platf
+ orm (a set of APIs to manipulate your data and integrate your maps anywhere
+ ) with CartoDB you get the most efficient way to map your data for the web 
+ and mobile. \n\nCartoDB came to life after the development of several biodi
+ versity and conservation data visualization projects. We couldn’t find any 
+ tools that were able to map complex data (think millions of points) in real
+  time in a visually attractive way\, so we used different open source proje
+ cts and began building our own solution. We were pleased with the results a
+ nd thought that maybe others would also be interested in the technology. Ca
+ rtodb.com launched more than two years ago\, and since then more than 500 c
+ ustomers and thousands of users have signed up in more than 50 countries. \
+ n\nOne of the secrets of CartoDB is the power of the PostGIS database backe
+ nd. This means you have a complete SQL datastore: you can work with your da
+ ta in the way you already know how to. On top of this you have the ability 
+ to use geospatial extensions\, which will let you do some crazy geospatial 
+ queries and work with your geospatial data just by doing SQL queries.\n\nCa
+ rtoDB is the perfect tool to create rapid prototypes: our APIs are simple a
+ nd well documented\, so you can start playing\, testing\, and building your
+  apps immediately. It’s the perfect companion to any hackathon \;)
+LAST-MODIFIED:20140910T105150Z
+LOCATION:Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good + CartoDB: Geospatial Mapping and Visualisation against 
+ Climate Change [Global Webcast]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140915T070000Z
+DTEND:20140915T080000Z
+DTSTAMP:20140917T022431Z
+UID:fag4mu7c9tgu4fiku6892uibso@google.com
+CREATED:20140907T012837Z
+DESCRIPTION:At this judging session for Geeklist #hack4good 0.6\, virtual t
+ eams entering projects into the "Sustainable Business" challenge theme\, wi
+ ll present their projects to a global judging panel.\n\nThe team assessed t
+ o have the greatest potential for impact will go forwards along with city w
+ inners to the Global Challenge Judging session on Wednesday.\n\nFormat: 3-m
+ inute presentation/demo + 2-minutes Q&A for each team\n\nJudging Criteria:\
+ nhttps://hack4good.hackpad.com/Judging-Process-XX9QthXGJDs#:h=Judging-crite
+ ria\n\nJudging Panel:\n- Sally Uren\, CEO\, Forum for the Future\n- Hugh Kn
+ owles\, Head of Innovation\, Forum for the Future\n- Yme Bosma\, Program Di
+ rector\, Smart Energy\, Rockstart Accelerator\n- more judges tbc!\n\nTeams:
+ \n- to be announced on Sunday 14th September
+LAST-MODIFIED:20140910T045358Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Sustainable Business" Virtual Teams Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140909T200000Z
+DTEND:20140909T210000Z
+DTSTAMP:20140917T022431Z
+UID:aie4ejo8u63di8h3sogudri0rs@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+CREATED:20140906T212522Z
+DESCRIPTION:SPREECAST LINK:\nhttp://www.spreecast.com/events/king-tides-pro
+ ject-at-hack4good-0-6\n\nTUESDAY 9 SEPTEMBER\n13.00 PDT / 16.00 EDT / 21.00
+  BST / 22.00 CEST / 23.00 EEST / 01.30 IST (next day)\n\n"How might we impr
+ ove our response and preparedness for flooding\, tropical storms and sudden
+  onset extreme weather events?"\n\nThe King Tides Project helps people all 
+ over the world understand how sea level rise will impact their lives.\n\nCl
+ imate change is placing increasing pressure on coastal regions which are al
+ ready seriously affected by intensive human activity. Today\, approximately
+  3 billion people — about half of the world's population — live within 200 
+ kilometers of a coastline. By 2025\, that figure is likely to double.\n\nWe
+ 're already seeing the impact of extreme water and increased frequency and 
+ intensity of extreme weather events such as tropical storms\, hurricanes\, 
+ typhoons and flooding in many parts of the world.\n\nLet's hack solutions t
+ o help people\, communities and governments worldwide understand and adapt 
+ to these changes and often devastating events.\n\nThe first idea from King 
+ Tides is already up - Citizen Science photo & data collection tool - and in
+  the coming days we'll be adding more problem statements including NOAA's C
+ oastal Impacts challenge.\n\nIf you're interested in coastal impacts and re
+ sponse to extreme weather\, join our live webcast and Q&A session with Mari
+ na Psaros and Heather Bauer\, co-leads of the King Tides Project.
+LAST-MODIFIED:20140910T000522Z
+LOCATION:Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good + King Tides Project: Extreme Water Impacts [Global Webc
+ ast]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140910T220000Z
+DTEND:20140910T230000Z
+DTSTAMP:20140917T022431Z
+UID:b28i3a43ohmj9cqe1h48th01p8@google.com
+CREATED:20140908T211537Z
+DESCRIPTION:WEBCAST LINK:\nhttp://www.youtube.com/watch?v=nTS69aBloEs\n\nTU
+ ESDAY 9 SEPTEMBER\n15.00 PDT / 18.00 EDT / 23.00 BST / 00.00 CEST (next day
+ ) / 01.00 EEST / 03.30 IST (next day)\n\nYannick Trottier\, P.Eng.\, Engine
+ ers for Carbon Ethics (https://geekli.st/ytrottier) is an MIT-educated prof
+ essional engineer\, entrepreneur\, and climate advocate.\n\nTOPIC: Vulnerab
+ ilities to Climate Change - weak spots in our world that may be overwhelmed
+  by climate disruptions.\n\nMr. Yannick Trottier\, P.Eng. holds a degree fr
+ om MIT in aerospace engineering\, and completed a nine-week MIT class on Cl
+ imate Science. He was a co-founder of Spectral Applied Research\, a high-te
+ chnology startup that built the MOST space telescope and operated a LIDAR o
+ zone observatory in the Arctic. Spectral was sold to Oxford Instruments las
+ t year. Mr. Trottier worked on nuclear reactors for 9 years before committi
+ ng himself to the climate change cause\, joining the Climate Reality Projec
+ t\, Citizens' Climate Lobby\, and founding Engineers for Carbon Ethics. He 
+ has given lectures about climate change to Chinese universities and profess
+ ional groups across Canada.
+LAST-MODIFIED:20140908T224618Z
+LOCATION:Youtube (Hangouts on Air)
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good + Yannick Trottier: Vulnerabilities to Climate Change [G
+ lobal Webcast]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140911T140000Z
+DTEND:20140911T150000Z
+DTSTAMP:20140917T022431Z
+UID:chic839qotdo9ib6u7h9gpmnek@google.com
+CREATED:20140906T221633Z
+DESCRIPTION:LINK TO JOIN SPREECAST:\nhttp://www.spreecast.com/events/forum-
+ for-the-future-at-hack4good-0-6\n\nTHURSDAY 11 SEPTEMBER\n07.00 PDT / 10.00
+  EDT / 15.00 BST / 16.00 CEST / 17.00 EEST / 19.30 IST\n\n"How might we enc
+ ourage a step change in how businesses use resources throughout their suppl
+ y chain and accelerate the transition to a circular economy?"\n\nForum for 
+ the Future is an independent non-profit working globally with business\, go
+ vernment and other organisations to solve complex sustainability challenges
+ .\n\nThey're working to transform the critical systems that we all depend o
+ n\, such as food and energy\, to make them fit for the challenges of the 21
+ st century. Forum has 19 years’ experience inspiring new thinking\, buildin
+ g creative partnerships and developing practical innovations to change our 
+ world. \n\nJoin Hugh Knowles\, Head of Innovation at Forum for the Future\,
+  to discuss the exciting challenges and opportunities of totalling shifting
+  how we approach energy\, business and supply chains and the future we can 
+ create together.
+LAST-MODIFIED:20140908T205353Z
+LOCATION:Spreecast
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:*MOVED* #Hack4Good + Forum for the Future: Sustainable Business [Gl
+ obal Webcast]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140908T150000Z
+DTEND:20140908T160000Z
+DTSTAMP:20140917T022431Z
+UID:buupts19787s509dkirmga1ofg@google.com
+CREATED:20140906T221231Z
+DESCRIPTION:LINK TO JOIN SPREECAST:\nhttp://www.spreecast.com/events/wwf-at
+ -geeklist-hack4good-0-6\n\nMONDAY 8 SEPTEMBER\n08.00 PDT / 11.00 EDT / 16.0
+ 0 BST / 17.00 CEST / 18.00 EEST / 20.30 IST\n\n"How might we encourage resp
+ onsible finance\, divestment away from fossil fuels and increased investmen
+ t into green technology?"\n\nWWF (the Worldwide Fund for Nature) is the wor
+ ld's largest independent conservation organization. WWF's mission is to con
+ serve nature and reduce the most pressing threats to the diversity of life 
+ on Earth. Their vision is to build a future in which people live in harmony
+  with nature.\n\nAddressing climate change is vital to that aim. Sea levels
+  are rising and oceans are becoming warmer. Longer\, more intense droughts 
+ threaten crops\, wildlife and freshwater supplies. From polar bears in the 
+ Arctic to marine turtles off the coast of Africa\, our planet’s diversity o
+ f life is at risk from the changing climate.\n\nIn their widespread 'Seize 
+ Your Power' campaign\, WWF has signed-up 120\,000 people to join their call
+  for financial institutions and governments worldwide to act immediately to
+  invest more in sustainable energy powered by wind\, water and the sun - an
+ d phase out investments in coal\, oil and gas.\n\nKatia Maia\, Global Campa
+ ign Manager\, Seize Your Power\, said about #hack4good:\n\n“It is taking al
+ l minds and all sectors to solve climate change. At a time when we know mon
+ ey has to move quickly out of coal\, oil and gas and into renewable energy\
+ , we need all hands on deck with creative solutions for everyone to make it
+  happen. WWF is excited to be involved with #hack4good\, an initiative with
+  the potential to change how we change the world.”\n\nYou can join senior W
+ WF campaigner Zoe Caron at our exclusive global webcast and live Q&A sessio
+ n this coming week!
+LAST-MODIFIED:20140908T163445Z
+LOCATION:Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good + WWF: Responsible Finance [Global Webcast]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140908T170000Z
+DTEND:20140908T180000Z
+DTSTAMP:20140917T022431Z
+UID:utito48quu0eoq7dreeuns74mo@google.com
+CREATED:20140908T135743Z
+DESCRIPTION:LINK TO JOIN SPREECAST:\nhttp://www.spreecast.com/events/mike-k
+ aulbars-on-behaviour-change\n\nMike Kaulbars (https://geekli.st/greenfyre) 
+ is a social justice activist and global mentor for Geeklist #hack4good 0.6.
+ \n\nTrained as a research scientist and with two decades of experience as a
+  social justive activist\, most recently focused on climate change\, Mike w
+ ill be sharing how to drive effective behaviour change in the context of ea
+ ch of the 15 Global Challenge Themes of Geeklist #hack4good 0.6.
+LAST-MODIFIED:20140908T135813Z
+LOCATION:Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:*ADDED* Mike Kaulbars on Behaviour Change and Effective Action on C
+ limate Change
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140909T170000Z
+DTEND:20140909T180000Z
+DTSTAMP:20140917T022431Z
+UID:70630lbdbts81hr7stcup76e50@google.com
+CREATED:20140906T211059Z
+DESCRIPTION:SPREECAST LINK:\nhttp://www.spreecast.com/events/lead-intl-at-h
+ ack4good-0-6\n\nTUESDAY 9 SEPTEMBER\n10.00 PDT / 13.00 EDT / 18.00 BST / 19
+ .00 CEST / 20.00 EEST / 22.30 IST\n\n"How can we empower communities to be 
+ strong\, prepared and resilient to natural disasters?"\n\nLead is the world
+ 's largest non-profit organisation dedicated to building leadership capacit
+ y for sustainable development. They have a proven track record over the pas
+ t 20 years\, having trained more than 2\,500 leaders across 90 countries - 
+ an international network of leaders united by a common purpose: to make cha
+ nge happen for a sustainable world.\n\nAt Geeklist #hack4good 0.6 you'll ge
+ t to work with Lead on challenges including:\n\n- How can we establish comm
+ unication and outreach mechanisms to help most vulnerable members of societ
+ y in Malawi acquire information on adaptation to climate change?\n\n- Adapt
+ ing the built environment to increasing energy consumption in Lagos\, Niger
+ ia\nYou can join us to discuss these topics directly with the leaders of Le
+ ad in our global webcast and live Q&A session!
+LAST-MODIFIED:20140908T085915Z
+LOCATION:Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good + Lead International: Resilient Communities [Global Webc
+ ast]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140915T130000Z
+DTEND:20140915T140000Z
+DTSTAMP:20140917T022431Z
+UID:u1ntfp28pn5l3poufujuu4f7k8@google.com
+CREATED:20140907T021017Z
+DESCRIPTION:At this judging session for Geeklist #hack4good 0.6\, virtual t
+ eams entering projects into the "Ecosystems and Nature" challenge theme\, w
+ ill present their projects to a global judging panel.\n\nThe team assessed 
+ to have the greatest potential for impact will go forwards along with city 
+ winners to the Global Challenge Judging session on Wednesday.\n\nFormat: 3-
+ minute presentation/demo + 2-minutes Q&A for each team\n\nJudging Criteria:
+ \nhttps://hack4good.hackpad.com/Judging-Process-XX9QthXGJDs#:h=Judging-crit
+ eria\n\nTeams:\n- to be announced on Sunday 14th September
+LAST-MODIFIED:20140907T040336Z
+LOCATION:Google Hangouts on Air
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good "Ecosystems and Nature" Virtual Teams Judging
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140910T070000Z
+DTEND:20140910T080000Z
+DTSTAMP:20140917T022431Z
+UID:5on6pg5db28n6kvscn19dmmtrk@google.com
+CREATED:20140906T230309Z
+DESCRIPTION:LINK TO JOIN SPREECAST:\nhttp://www.spreecast.com/events/justgi
+ ving-at-geeklist-hack4good-0-6/edit\n\nWEDNESDAY 10 SEPTEMBER - 8.00am BST\
+ n0.00 PDT / 3.00 EDT / 8.00 BST / 9.00 CEST / 10.00 EEST / 12.30 IST\n\nJus
+ tGiving is the world’s social platform for giving\, used by causes and fund
+ raisers worldwide. JustGiving’s APIs enable developers to build innovative 
+ apps to raise funds for over 13\,000 charities and causes worldwide.\n\nJus
+ tGiving will be taking part in #hack4good with Developer Evangelists on-han
+ d to support teams in London\, Dublin and Melbourne and also supporting dev
+ elopers in any country to use their API.\n\nJoin our global webcast with Ja
+ mie Parkins\, Developer Evangelist at JustGiving to see some incredible app
+ s built using the JustGiving APIs and get ready to build innovative fundrai
+ sing apps to unite against climate change at Geeklist #hack4good!\n\nRead m
+ ore at http://pages.justgiving.com/developer and follow @jghackers on Twitt
+ er.
+LAST-MODIFIED:20140906T234918Z
+LOCATION:Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:#Hack4Good + JustGiving: Fundraising against Climate Change [Global
+  Webcast]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140208T190000Z
+DTEND:20140208T193000Z
+DTSTAMP:20140917T022431Z
+UID:pp0tmciec425k3u92ctifsik10@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+CREATED:20140205T045701Z
+DESCRIPTION:
+LAST-MODIFIED:20140208T185703Z
+LOCATION:Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sanjay Causehub.io
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140208T180000Z
+DTEND:20140208T183000Z
+DTSTAMP:20140917T022431Z
+UID:1A01802C-D9C6-42A8-894D-DA37161C3348
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+CREATED:20140201T220502Z
+DESCRIPTION:
+LAST-MODIFIED:20140208T180020Z
+LOCATION:Austin + Spreecast
+SEQUENCE:11
+STATUS:CONFIRMED
+SUMMARY:#hack4good Mike McNeil Sails.js live coding
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140208T170000Z
+DTEND:20140208T180000Z
+DTSTAMP:20140917T022431Z
+UID:22B65021-BBB4-4D36-B338-613218C5D465
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+URL:www.spreecast.com/channels/hack4good
+CREATED:20140130T220553Z
+DESCRIPTION:* Lob.com *\n\nFor those of you who are unfamiliar with Lob\, w
+ e are a Y-Combinator (S13) backed company that is bringing commercial print
+  & mail infrastructure to the cloud through a simple API.\n\nLob provides t
+ he easiest way to integrate print & mail solutions into your business and a
+ pplications. Think Amazon Web Services\, Twilio\, or Stripe for printing & 
+ mailing.\n\nIn addition to print & mail\, we also offer a global address ve
+ rification API. It has never been quicker or easier to validate customer ad
+ dresses around the world.\n\nAs part of this weekend’s swag pack\, you get 
+ $20 in credits from Lob.com\n\nUse these credits to power your apps with Lo
+ b and do cool things such as:\n- Raise awareness by automating direct mail 
+ marketing with letters\, postcards\, etc.\n- Start offering custom posters\
+ , postcards\, and other physical collateral from your app\n- Trigger thank 
+ you notes\, postcards\, and greeting cards\n- Enhance and monetize your pho
+ to-centric apps by adding a pixel-to-print feature\n- Send payments via our
+  check API (over $5 million in checks processed to date)\n- And so much mor
+ e!\n\nPresenters:\nDan\, Harry\, Leore\, Peter - the Lob.com team
+LAST-MODIFIED:20140208T170435Z
+LOCATION:San Francisco + Spreecast
+SEQUENCE:17
+STATUS:CONFIRMED
+SUMMARY:#hack4good API Partners Spreecast: Lob.com + 3 more
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140208T040000Z
+DTEND:20140208T050000Z
+DTSTAMP:20140917T022431Z
+UID:3B095483-12E9-44B6-9F1E-605018CAB3EE
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+URL:www.spreecast.com/channels/hack4good
+CREATED:20140131T151414Z
+DESCRIPTION:Geeklist KICKOFF Americas! featuring:\n- The Immunity Project\n
+ - Jungle Bird\n- Rackspace\n- more tbc
+LAST-MODIFIED:20140208T035012Z
+LOCATION:San Francisco + Global Spreecast
+SEQUENCE:14
+STATUS:CONFIRMED
+SUMMARY:Geeklist KICKOFF Americas!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140207T200000Z
+DTEND:20140207T210000Z
+DTSTAMP:20140917T022431Z
+UID:aaur4gb7ia38dfetu6vm46pumk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+CREATED:20140131T151803Z
+DESCRIPTION:Geeklist KICKOFF Americas! featuring:\n- Pim from Whitespell\n-
+  more tbc
+LAST-MODIFIED:20140207T200030Z
+LOCATION:London + Global Spreecast
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Geeklist KICKOFF Europe!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140207T150000Z
+DTEND:20140207T160000Z
+DTSTAMP:20140917T022431Z
+UID:08s84gras4d5nldf0jklk5h44g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+CREATED:20140131T151918Z
+DESCRIPTION:Geeklist KICKOFF Americas!
+LAST-MODIFIED:20140207T145013Z
+LOCATION:New Delhi + Global Spreecast
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Geeklist KICKOFF Asia!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140206T210000Z
+DTEND:20140206T213000Z
+DTSTAMP:20140917T022431Z
+UID:14m6vh0auo3t8gguo5fptscnnk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140205T051233Z
+DESCRIPTION:Organization: Kitchen Cred\n\nSpeaker: Doug Barg\n\nAbout Kitch
+ en Cred:  Our kids\, our city and our society are facing a nutrition crisis
+ . Food insecurity affects health\, academic performance\, economic producti
+ vity\, and social relationships. Kitchen Cred is an answer that begins with
+  teens and expands out through their families\, schools\, and communities. 
+ We are a volunteer-run\, community-based\, out-of-school program for adoles
+ cents that builds vital life skills through nutrition and kitchen competenc
+ y. Our starting point? We teach teens what is healthy\, nutritious food and
+  how to prepare it. Then we go on to cultivate self-esteem\, leadership\, t
+ eamwork\, academics and community service.\n\nwww.kitchencred.org
+LAST-MODIFIED:20140206T205015Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-kitchen-cred
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast - Kitchen Cred
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140206T200000Z
+DTEND:20140206T203000Z
+DTSTAMP:20140917T022431Z
+UID:s7s8qfl4bhr8c6ko5qnm6o2li0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140204T012205Z
+DESCRIPTION:Power your printing and mailing with Lob\n\nA simple API to int
+ egrate print & mail solutions into your applications.\n\nThe Lob API is org
+ anized around REST. Our API is designed to have predictable\, resource-orie
+ nted URLs and uses HTTP response codes to indicate any API errors. There ar
+ e two different type of print job methods: one for postcards and another fo
+ r standard print jobs.\n\nLob are giving everyone who takes part in #hack4g
+ ood $20 credit to get started with!\n\nWith Dan Zhao (Operations Lead)\, Le
+ ore Avidar (CEO and co-founder) and Peter Nagel (Lead Software Engineer).
+LAST-MODIFIED:20140206T195005Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-lobcom
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Spreecast - Lob.com
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140206T190000Z
+DTEND:20140206T193000Z
+DTSTAMP:20140917T022431Z
+UID:s291tmc23qodj5b0ir9fhs2lqg@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140204T025736Z
+DESCRIPTION:Hull is a set of open engagement APIs that let you build user l
+ ogin and authentication\, activity feeds\, messaging\, likes\, ratings\, co
+ mments and more into your apps in minutes.\n\nhttp://hull.io\n\nPresenter: 
+ Stefan Koenig \n\nWatch live or afterwards at http://www.spreecast.com/even
+ ts/geeklist-hack4good-hullio-intro
+LAST-MODIFIED:20140206T185003Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-hullio-intro
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Spreecast - Hull.io
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140206T170000Z
+DTEND:20140206T173000Z
+DTSTAMP:20140917T022431Z
+UID:7d8f81kv6sn1n55s057hs2rbm0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140205T220134Z
+DESCRIPTION:Security First is building a free open source mobile applicatio
+ n\, ‘Umbrella’\, that provides most of the information and tools needed for
+  a human rights defender to operate safely.\n\nWith step-by-step processes 
+ for every situation from sending a secure email to emergency evacuation – U
+ mbrella will provide human rights defenders with a one-stop-shop for all th
+ e latest tools and know-how of how to operate securely as and when they nee
+ d it.\n\nIt will integrate existing security content and tools with Securit
+ y First developed content and tools\, and crucially will provide for physic
+ al security as well as cyber security. \n\nIdea:\nAdvanced Integrated Physi
+ cal Security for Human Rights Defenders\, Aid Workers\, Activists and Journ
+ alists\n\nIdea page:\nhttps://geekli.st/hackathon/52c49d837689332d5f000019/
+ idea/52ee663d4400725900a8341a\n\nPresenter:\nRory Byrne\, Founder\, securit
+ y first.\n\nwww.secfirst.org
+LAST-MODIFIED:20140206T165005Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-security-first
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast: Security First + #hack4good
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140206T160000Z
+DTEND:20140206T163000Z
+DTSTAMP:20140917T022431Z
+UID:oe71lj2t746kk8o2bm430q4h1g@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140205T215649Z
+DESCRIPTION:Joining link: http://www.spreecast.com/events/geeklist-hack4goo
+ d-amnesty-intl\n\nAmnesty International is a global movement of more than 3
+  million supporters\, members and activists in over 150 countries and terri
+ tories who campaign to end grave abuses of human rights.\n\nOur vision is f
+ or every person to enjoy all the rights enshrined in the Universal Declarat
+ ion of Human Rights and other international human rights standards.\n\nAmne
+ sty ideas:\n\n1. Shazaam For Bullets - https://geekli.st/hackathon/52c49d83
+ 7689332d5f000019/idea/52efec6fd3b8126b009ea01d\n\n2. Global Campaign on Tor
+ ture launching May 2014 - Create an open dataset to tell the evolving story
+  of torture\n\nPresenters:\n\nKathryn R. Striffolino\, Advocate & Science f
+ or Human Rights Project Coordinator\, Crisis Prevention and Response Unit\,
+  Amnesty International Washington DC\n\nSarah Atkinson\, Activism & Youth E
+ ngagement\, International Secretariat - Amnesty International\n\nTanya\, Pr
+ oject Officer\, Technology and Human Rights\, Amnesty International\n\nKier
+ an Clifford\, Amnesty International Ireland\n\nSarah will be participating 
+ in #hack4good in London\, Katie in Washington DC and Kieran in Dublin.
+LAST-MODIFIED:20140206T155040Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-amnesty-intl
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast: Amnesty International + #hack4good
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140206T150000Z
+DTEND:20140206T153000Z
+DTSTAMP:20140917T022431Z
+UID:BB5009FB-344A-4FCD-9099-4BCD624F36E7
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+CREATED:20140131T150952Z
+DESCRIPTION:Concern Worldwide is a non-governmental\, international\, human
+ itarian organization dedicated to the reduction of suffering and working to
+ wards the ultimate elimination of extreme poverty in the world’s poorest co
+ untries. Concern implements emergency response programmes as well as long-t
+ erm development programmes in the areas of livelihoods\, health\, HIV&AIDS\
+ , and education. Our mission is to help people living in extreme poverty ac
+ hieve major improvements in their lives that last and spread without ongoin
+ g support from Concern. To achieve this mission we engage in long-term deve
+ lopment work\, respond to emergency situations\, and seek to address the ro
+ ot causes of poverty.\n\nDom Hunt\, Disaster Risk Reduction Advisor\, Conce
+ rn Worldwide will be presenting
+LAST-MODIFIED:20140206T145024Z
+LOCATION:http://www.spreecast.com/events/hack4good-concern-worldwide
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Spreecast: Concern Worldwide + #hack4good
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140206T130000Z
+DTEND:20140206T133000Z
+DTSTAMP:20140917T022431Z
+UID:48oeti5uoqoml7kdsna4qmbu2c@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140206T115211Z
+DESCRIPTION:Link to watch and participate: http://www.spreecast.com/events/
+ geeklist-hack4good-heartoday-and-ihcc\n\nIHCC.org.uk (Ian Hutchinson Clinic
+  for Children) - @ihcc_\n\nOur charity has been set up in memory of Ian Hut
+ cheon who was passionate about helping young people to reach their full pot
+ ential in life. Our programme of prevention and early intervention of heari
+ ng loss\, will give underprivileged children this opportunity and ensure th
+ at Ian's legacy lives on.\n\nA good example of what they do is the team out
+  in Uganda at the moment setting up an audiology clinic:  http://ihcc.org.u
+ k/latest/stories/peggys-blog.php\n\nHearToday.org (Hear Today - A Better To
+ morrow) - @HearTodayOrg\n\nIs a startup social enterprise currently in Beth
+ nal Green Ventures\, London. We are working on tech for hearing impaired ch
+ ildren to improve their access to education for children with mild to moder
+ ate hearing loss (Typically 1.5% to 2.5% of children). Particularly in the 
+ first years of education to prevent them falling behind with their literacy
+  skills.\n\nWe work with a lot of charities involved with equal access to e
+ ducation and hearing loss\, like IHCC\, Sound-Seekers\, EducAid\, UNICEF et
+ c.\n\n**IDEA: Micro-Volunteering Game for subtitling educational videos**\n
+ \nWe are developing a low cost 'walkman' size mini-computer that would scre
+ en the whole class at the beginning of the year to identify any children wi
+ th hearing problems\, who until being diagnosed\, may have been considered 
+ as unattentive or slower than their peers.\n\nThe same device could then be
+  used as a 'hearing aid' to help that child better understand the teacher d
+ uring lessons. \n\nWe would also provide advice and guidance for teachers o
+ n how to help children with hearing loss\, and hopefully make the teachers 
+ more confident that they really can effectively benefit these children.\n\n
+ The features of the HearToday device include:\n\n- it will not need profess
+ ional medical training to operate\n- It will be made from consumer electron
+ ic components (so it can be maintained locally without expensive proprietar
+ y spare parts)\n- The class screening results and individual child's usage 
+ data is stored on the device and transmitted by SMS for remote monitoring b
+ y specialists\n- We are aiming at a target price of <$100 per unit. \n\nhtt
+ ps://geekli.st/hackathon/52c49d837689332d5f000019/idea/52f21dbd870861770048
+ 8072?tab=about
+LAST-MODIFIED:20140206T125047Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-heartoday-and-i
+ hcc
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast: HearToday and IHCC
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140206T120000Z
+DTEND:20140206T123000Z
+DTSTAMP:20140917T022431Z
+UID:j7asefvkup1h0c84hhss5cn4ms@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+CREATED:20140201T051400Z
+DESCRIPTION:LTL is the UK charity dedicated to enhancing outdoor learning a
+ nd play for children and young people. Our vision is that every child benef
+ its from stimulating outdoor learning and play in their education. In Scotl
+ and we operate as Grounds for Learning \n\nWe aim to improve learning and w
+ ellbeing outcomes for children across all education settings\, enabling the
+ m to connect with nature\, be more engaged with their learning\, be more ac
+ tive\, and develop their social skills.
+LAST-MODIFIED:20140206T115019Z
+LOCATION:http://www.spreecast.com/events/hack4good-learning-through-landsca
+ pes
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast - Learning Through Landscapes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140206T080000Z
+DTEND:20140206T083000Z
+DTSTAMP:20140917T022431Z
+UID:vqbgue4asq4fhidcebc729cl8s@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140205T063457Z
+DESCRIPTION:Médecins Sans Frontières/Doctors Without Borders (MSF) helps pe
+ ople worldwide where the need is greatest\, delivering emergency medical ai
+ d to people affected by conflict\, epidemics\, disasters or exclusion from 
+ healthcare.\n\nIvan Gayton has over 10 years of field experience with Medec
+ ins sans Frontieres\, has travelled to 43 different countries on humanitari
+ an projects\, including most recently Burundi\, Darfur (Sudan)\, Central Af
+ rican Republic\, Chad\, Pakistan\, Haiti\, Libya\, Nigeria and the Philippi
+ nes. He now serves on the Board of Directors and is pioneering how technolo
+ gy can be used to save more lives.\n\nWe will be discussing:\n- What are so
+ me of the fundamental problems in humanitarian / disaster response right no
+ w?\n- How might technology help solve these?\n- What is key to creating tan
+ gible\, real results with technology projects for humanitarian causes?\n\nH
+ ackathon ideas:\n\nMSF / Create useful data sets to understand baseline ris
+ ks per area (Global)\nhttps://geekli.st/hackathon/52c49d837689332d5f000019/
+ idea/52f30c582371f62800af803d\n\nMSF / Critical Decision Making with disast
+ er-related constraints (Global)\nhttps://geekli.st/hackathon/52c49d83768933
+ 2d5f000019/idea/52f30ce32371f62800af803e
+LAST-MODIFIED:20140206T075322Z
+LOCATION:http://www.spreecast.com/events/hack4good-doctors-wo-borders
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Medecins sans Frontieres (Doctors without Borders)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140205T133000Z
+DTEND:20140205T140000Z
+DTSTAMP:20140917T022431Z
+UID:2a38drrdu2v1io4t2u1m7pjb1o@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140205T061208Z
+DESCRIPTION:Bringing the world's sports community together to support sport
+ 's people who suffer catastrophic injury playing sports.\n\nPresenter: Eamo
+ nn Sayers\, Founder\n\n
+LAST-MODIFIED:20140205T230711Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-world-sports-te
+ am
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast: World Sports Team + #hack4good
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140205T180000Z
+DTEND:20140205T183000Z
+DTSTAMP:20140917T022431Z
+UID:t10r3jc90i65k3i7b50kj68t18@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+CREATED:20140205T044354Z
+DESCRIPTION:
+LAST-MODIFIED:20140205T175004Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-shapers-society
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast - Global Shapers Society
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140205T170000Z
+DTEND:20140205T173000Z
+DTSTAMP:20140917T022431Z
+UID:C88D5181-761E-47FB-AFF5-95FBBF6E7BCF
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+URL:www.spreecast.com/channels/hack4good
+CREATED:20140131T150914Z
+DESCRIPTION:Link to view: http://www.spreecast.com/events/hack4good-rackspa
+ ce-introduction\n\nRackspace is dedicated to open source and open community
+ . We want to empower and support developers to rapidly innovate\, build app
+ lications on OpenStack clouds and to make a difference in the community.\n\
+ nRackspace is super excited to once again be involved in Hack4Good\, and to
+  do our part in empowering brilliant minds to solve humanitarian problems.\
+ n\nWe will be sending top developer mentors from our company to assist in H
+ ack4Good events across the globe\, and will be hosting the San Francisco Ha
+ ck4Good at Rackspace’s Geekdom co-working space.\n\nAdditionally\, we invit
+ e anyone participating in the hackathon to use our $50/month developer cred
+ it towards their application- sign-up available at developer.rackspace.com/
+ devtrial.\n\nPresenters:\n\nEd Leafe has been a developer for over 20 years
+ \, and is one of the original developers involved with OpenStack. After lea
+ ving the Microsoft world over a decade ago he has been primarily a Python d
+ eveloper\, and has spoken as several US PyCons\, as well as two internation
+ al PyCons. He has been working with Rackspace for over 6 years. He also thr
+ ows a mean Frisbee.\n\nVyjayanthi Vadrevu is part of the developer marketin
+ g team at Rackspace\, and provides the anthropologist angle in making sure 
+ developers’ needs are understood and met. Prior to this\, she was in enterp
+ rise business development at Rackspace. Outside the office\, Vyjayanthi enj
+ oys startup events and competitions\, teaching and performing Indian dance\
+ , world music concerts\, and hanging out with family (including her dog\, M
+ ohitha) and friends in her hometown of Chicago.\n\n\n
+LAST-MODIFIED:20140205T165006Z
+LOCATION:http://www.spreecast.com/events/hack4good-rackspace-introduction
+SEQUENCE:14
+STATUS:CONFIRMED
+SUMMARY:Spreecast: Rackspace + Geeklist #Hack4good
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140205T150000Z
+DTEND:20140205T153000Z
+DTSTAMP:20140917T022431Z
+UID:oa5mngpikn1v42g7ih60k9b4f8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140204T065725Z
+DESCRIPTION:We’re one of the UK’s top environmental campaigning organisatio
+ ns and part of Friends of the Earth International (FOEI)\, the world’s larg
+ est grassroots environmental network.  That means we work with groups of pe
+ ople globally and locally to tackle some of the world’s most urgent issues.
+ \n \nOur campaigns have tackled the decline of British bees\, worked with o
+ ur sister group in Indonesia to challenge smartphone companies to come clea
+ n about their global supply chains and support groups around the UK opposin
+ g fracking from Lancashire to Balcombe.\n \nWe are campaigners = Passionate
+  people who want to turn their ideas about changing the world into reality.
+ \n\nPresenters:\nWendy Yuen\, Friends of the Earth\nJulian Kirby\, campaign
+ er for Make It Better
+LAST-MODIFIED:20140205T145202Z
+LOCATION:http://www.spreecast.com/events/hack4good-friends-of-the-earth
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Spreecast - Friends of the Earth
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140205T140000Z
+DTEND:20140205T143000Z
+DTSTAMP:20140917T022431Z
+UID:b85blv603htvb5tv4ov0miacno@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140205T040935Z
+DESCRIPTION:Spreecast link to come!
+LAST-MODIFIED:20140205T135123Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-wwf-kiev
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast - WWF
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140205T130000Z
+DTEND:20140205T133000Z
+DTSTAMP:20140917T022431Z
+UID:fg4l18317gnn8rlcaeae7tj3vc@google.com
+CREATED:20140204T024241Z
+DESCRIPTION:
+LAST-MODIFIED:20140205T034232Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-goal
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Spreecast - GOAL
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140202T193000Z
+DTEND:20140202T200000Z
+DTSTAMP:20140917T022431Z
+ORGANIZER;CN=daniel.cunningham@gmail.com:mailto:daniel.cunningham@gmail.com
+UID:9ADB97FF-9690-4B45-A897-1676BD018687
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+URL:www.spreecast.com/channels/hack4good
+CREATED:20140202T113222Z
+DESCRIPTION:It's just 5 days to go until #hack4good 0.5 kicks off in 40+ ci
+ ties around the world!\n\nWe want to share our vision of #hack4good\, the s
+ tory behind it and what you can do to get the most out of the event!\n\nPre
+ senters:\nReuben Katz\, CEO and Founder of Geeklist\nDan Cunningham\, Head 
+ of the Geeklist Corps of Developers\nJedi Weller\, Geeklist Director of Ops
+LAST-MODIFIED:20140204T232117Z
+LOCATION:http://www.spreecast.com/events/hack4good-intro-with-geeklist
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:#hack4good Launch Spreecast - 5 days to go! with Geeklist Founder R
+ euben Katz
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140204T190000Z
+DTEND:20140204T193000Z
+DTSTAMP:20140917T022431Z
+UID:310DB9B5-4CE7-409E-8E4D-A76176292230
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+URL:http://www.spreecast.com/events/hack4good-resinio-intro-demo
+CREATED:20140131T120403Z
+DESCRIPTION:Resin.io will be launching their API at #hack4good for up to 10
+  teams to work with!\n\nResin.io - javascript on your devices\, as simple a
+ s 'git push'\n\nYou don't need to be a Linux guru to hack on embedded devic
+ es like the Raspberry Pi. All you need is JavaScript. \n\nUse the same work
+ flow\, libraries\, and tools you use to code your node.js and browser appli
+ cations today. Let us worry about the infrastructure\, so you can focus on 
+ your application! \n\nAnd when the time comes to deploy to more than one de
+ vice\, we've got you covered. \n\nhttp://resin.io\n\nPresenter:\nAlexandros
+  Marinos\nResin.io founder
+LAST-MODIFIED:20140204T185033Z
+LOCATION:http://www.spreecast.com/events/hack4good-resinio-intro-demo
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Spreecast: Resin.io #Hack4Good
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140204T180000Z
+DTEND:20140204T183000Z
+DTSTAMP:20140917T022431Z
+UID:eecpi7dsdm3c9qlv54aeg1r6ck@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=Ge
+ eklist #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb
+ 162j3o5s91bejnc@group.calendar.google.com
+CREATED:20140202T130139Z
+DESCRIPTION:Pim de Witte\, creator of Status.ph and the Whitespell framewor
+ k\, will share his experience of hacking for social good - particularly foc
+ using on humanitarian hacking and disaster relief. He will share some of th
+ e challenges of this\, things he's learnt through his experience\, and tips
+  for how you can make the most of the 48 hours and create some real-world i
+ mpact!\n\nPim de Witte created Status.ph at our #hack4good for the Philippi
+ nes when Typhoon Haiyan hit. It's a real-time platform for exchange and dis
+ play of information on maps - so individuals and NGOs can share what is nee
+ ded and where\, and what help is available and where.\n\nNow he is working 
+ with Medicins sans Frontieres (Doctors without Borders) to further develop 
+ and field-test Status.ph\n\nStatus.ph was built in Pim's own HTML5 web/mobi
+ le development framework\, Whitespell.\n\nWhitespell is a lightweight\, ind
+ ependent solution to build powerful\, dynamic\, intelligent\, and scalable 
+ web-and mobile applications in HTML5.\n\nWhitespell will be exclusively lau
+ nched for you to use at #hack4good to build your own ultra-responsive web/m
+ obile apps!\n\nPresenter:\nPim\, Creator of Status.ph and Whitespell
+LAST-MODIFIED:20140204T175630Z
+LOCATION:http://www.spreecast.com/events/hack4good-whitespell
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast: Hacking for Social Good with Pim from Whitespell
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140208T110000Z
+DTEND:20140208T113000Z
+DTSTAMP:20140917T022431Z
+UID:qf6usqqv9092ne2jtflmdosgr4@google.com
+CREATED:20140204T025833Z
+DESCRIPTION:
+LAST-MODIFIED:20140204T025833Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hull.io! (needs to schedule)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140204T200000Z
+DTEND:20140204T203000Z
+DTSTAMP:20140917T022431Z
+UID:q6iibv1fjv44urofq6i2hi1vp0@google.com
+CREATED:20140204T002252Z
+DESCRIPTION:
+LAST-MODIFIED:20140204T002334Z
+LOCATION:http://www.spreecast.com/events/geeklist-hack4good-immunity-projec
+ t
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Spreecast - Immunity Project
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140203T180000Z
+DTEND:20140203T183000Z
+DTSTAMP:20140917T022431Z
+UID:A59915D9-1614-41EA-8FB7-406BEE64926B
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+URL:www.spreecast.com/channels/hack4good
+CREATED:20140124T112301Z
+DESCRIPTION:Mobile apps\, mobile websites and web apps are becoming more so
+ phisticated and intricate when it comes to their presentation. Being able t
+ o add animations\, screen transitions\, and interactivity to your prototype
+ s creates a new user experience for your clients. These features help to si
+ mulate and test a realistic representation of your mobile app\, mobile webs
+ ite or web app. That way whoever is looking at your prototype gets the real
+  app experience right from the prototyping stage.\n\nPresenter: Alexis Pipe
+ rides\, Founder\, Proto.io
+LAST-MODIFIED:20140203T175023Z
+LOCATION:http://www.spreecast.com/events/hack4good-protoio-intro-demo
+SEQUENCE:26
+STATUS:CONFIRMED
+SUMMARY:Spreecast: Proto.io at #Hack4Good
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140202T210000Z
+DTEND:20140202T213000Z
+DTSTAMP:20140917T022431Z
+ORGANIZER;CN=jedi@geekli.st:mailto:jedi@geekli.st
+UID:ak6egbj8r03hhc8ch05p5v5kn8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+CREATED:20140131T091641Z
+DESCRIPTION:Keep Philadelphia Beautiful is a proud affiliate of Keep Americ
+ a Beautiful\, the nation's leading nonprofit bringing people together to bu
+ ild and sustain vibrant communities through litter abatement\, waste reduct
+ ion\, and recycling education and promotion. Our mission is to engage indiv
+ iduals to take greater responsibility for their community environments by p
+ roviding resources\, education\, assistance\, and promotion. Last year alon
+ e\, we spoke to over 800 Philadelphia students about the social and economi
+ c impacts of litter\, and cleared our streets of over 300 bags of debris.\n
+ \nWith Michelle Feldman\, Director\, Keep Philadelphia Beautiful
+LAST-MODIFIED:20140202T205004Z
+LOCATION:http://www.spreecast.com/events/hack4good-keep-philadelphia-beauti
+ ful
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast: Keep Philly Beautiful at #hack4good
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20140202T200000Z
+DTEND:20140202T203000Z
+DTSTAMP:20140917T022431Z
+UID:h36h7rth408alq42t231hfo728@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=Geekli
+ st #hack4good 0.6 Spreecasts Schedule;X-NUM-GUESTS=0:mailto:ah8rj4dh3vb162j
+ 3o5s91bejnc@group.calendar.google.com
+CREATED:20140130T181010Z
+DESCRIPTION:About us: The Nukanti Foundation is an independent non-profit o
+ rganisation dedicated to investing in education\, empowerment and leadershi
+ p skills\, and hope for youth in communities affected by conflict and pover
+ ty. Nukanti means in the Amazon incas language 'US' \, that we all share th
+ e power in us to make a difference. We're a dynamic bunch of entrepreneurs 
+ who share a passion for helping others and use our various talents be it\; 
+ communications\, IT\, human rights to drive our projects\, seek funding and
+  change the world! Our team works remotely across the world from London\, B
+ ournemouth\, Rio de Janeiro\, Bogota to Philadephia and will be on-hand for
+  support and questions during the hackathon.\n\nPresenters:\nCharlotte Joyc
+ e. Nukanti’s UK Director. \nJoseph Dennis Kelly. Nukanti's global communica
+ tions strategy and operations leader.
+LAST-MODIFIED:20140202T195004Z
+LOCATION:http://www.spreecast.com/events/hack4good-nukanti-foundation
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spreecast: Nukanti Foundation at #hack4good
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
