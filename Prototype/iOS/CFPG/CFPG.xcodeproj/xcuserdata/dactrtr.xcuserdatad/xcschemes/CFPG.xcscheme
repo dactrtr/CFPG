@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F1E6168019EDCA2B002E724D"
-               BuildableName = "CFPG.app"
-               BlueprintName = "CFPG"
-               ReferencedContainer = "container:CFPG.xcodeproj">
+               BlueprintIdentifier = "F1E616AE19EDDE06002E724D"
+               BuildableName = "cfpg.app"
+               BlueprintName = "cfpg"
+               ReferencedContainer = "container:cfpg.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F1E6169519EDCA2B002E724D"
-               BuildableName = "CFPGTests.xctest"
-               BlueprintName = "CFPGTests"
-               ReferencedContainer = "container:CFPG.xcodeproj">
+               BlueprintIdentifier = "F1E616C319EDDE06002E724D"
+               BuildableName = "cfpgTests.xctest"
+               BlueprintName = "cfpgTests"
+               ReferencedContainer = "container:cfpg.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F1E6169519EDCA2B002E724D"
-               BuildableName = "CFPGTests.xctest"
-               BlueprintName = "CFPGTests"
-               ReferencedContainer = "container:CFPG.xcodeproj">
+               BlueprintIdentifier = "F1E616C319EDDE06002E724D"
+               BuildableName = "cfpgTests.xctest"
+               BlueprintName = "cfpgTests"
+               ReferencedContainer = "container:cfpg.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F1E6168019EDCA2B002E724D"
-            BuildableName = "CFPG.app"
-            BlueprintName = "CFPG"
-            ReferencedContainer = "container:CFPG.xcodeproj">
+            BlueprintIdentifier = "F1E616AE19EDDE06002E724D"
+            BuildableName = "cfpg.app"
+            BlueprintName = "cfpg"
+            ReferencedContainer = "container:cfpg.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F1E6168019EDCA2B002E724D"
-            BuildableName = "CFPG.app"
-            BlueprintName = "CFPG"
-            ReferencedContainer = "container:CFPG.xcodeproj">
+            BlueprintIdentifier = "F1E616AE19EDDE06002E724D"
+            BuildableName = "cfpg.app"
+            BlueprintName = "cfpg"
+            ReferencedContainer = "container:cfpg.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F1E6168019EDCA2B002E724D"
-            BuildableName = "CFPG.app"
-            BlueprintName = "CFPG"
-            ReferencedContainer = "container:CFPG.xcodeproj">
+            BlueprintIdentifier = "F1E616AE19EDDE06002E724D"
+            BuildableName = "cfpg.app"
+            BlueprintName = "cfpg"
+            ReferencedContainer = "container:cfpg.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

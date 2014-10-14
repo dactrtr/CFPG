@@ -7,46 +7,46 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F1E6168719EDCA2B002E724D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E6168619EDCA2B002E724D /* AppDelegate.swift */; };
-		F1E6168919EDCA2B002E724D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E6168819EDCA2B002E724D /* ViewController.swift */; };
-		F1E6168C19EDCA2B002E724D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1E6168A19EDCA2B002E724D /* Main.storyboard */; };
-		F1E6168E19EDCA2B002E724D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1E6168D19EDCA2B002E724D /* Images.xcassets */; };
-		F1E6169119EDCA2B002E724D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1E6168F19EDCA2B002E724D /* LaunchScreen.xib */; };
-		F1E6169D19EDCA2B002E724D /* CFPGTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E6169C19EDCA2B002E724D /* CFPGTests.swift */; };
+		F1E616B519EDDE06002E724D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E616B419EDDE06002E724D /* AppDelegate.swift */; };
+		F1E616B719EDDE06002E724D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E616B619EDDE06002E724D /* ViewController.swift */; };
+		F1E616BA19EDDE06002E724D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1E616B819EDDE06002E724D /* Main.storyboard */; };
+		F1E616BC19EDDE06002E724D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1E616BB19EDDE06002E724D /* Images.xcassets */; };
+		F1E616BF19EDDE06002E724D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F1E616BD19EDDE06002E724D /* LaunchScreen.xib */; };
+		F1E616CB19EDDE06002E724D /* cfpgTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E616CA19EDDE06002E724D /* cfpgTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		F1E6169719EDCA2B002E724D /* PBXContainerItemProxy */ = {
+		F1E616C519EDDE06002E724D /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F1E6167919EDCA2B002E724D /* Project object */;
+			containerPortal = F1E616A719EDDE05002E724D /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F1E6168019EDCA2B002E724D;
-			remoteInfo = CFPG;
+			remoteGlobalIDString = F1E616AE19EDDE06002E724D;
+			remoteInfo = cfpg;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F1E6168119EDCA2B002E724D /* CFPG.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CFPG.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F1E6168519EDCA2B002E724D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F1E6168619EDCA2B002E724D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F1E6168819EDCA2B002E724D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		F1E6168B19EDCA2B002E724D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F1E6168D19EDCA2B002E724D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		F1E6169019EDCA2B002E724D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		F1E6169619EDCA2B002E724D /* CFPGTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CFPGTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F1E6169B19EDCA2B002E724D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F1E6169C19EDCA2B002E724D /* CFPGTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CFPGTests.swift; sourceTree = "<group>"; };
+		F1E616AF19EDDE06002E724D /* cfpg.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cfpg.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1E616B319EDDE06002E724D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1E616B419EDDE06002E724D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F1E616B619EDDE06002E724D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F1E616B919EDDE06002E724D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F1E616BB19EDDE06002E724D /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		F1E616BE19EDDE06002E724D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		F1E616C419EDDE06002E724D /* cfpgTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cfpgTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F1E616C919EDDE06002E724D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1E616CA19EDDE06002E724D /* cfpgTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cfpgTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F1E6167E19EDCA2B002E724D /* Frameworks */ = {
+		F1E616AC19EDDE06002E724D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F1E6169319EDCA2B002E724D /* Frameworks */ = {
+		F1E616C119EDDE06002E724D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -56,58 +56,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F1E6167819EDCA2B002E724D = {
+		F1E616A619EDDE05002E724D = {
 			isa = PBXGroup;
 			children = (
-				F1E6168319EDCA2B002E724D /* CFPG */,
-				F1E6169919EDCA2B002E724D /* CFPGTests */,
-				F1E6168219EDCA2B002E724D /* Products */,
+				F1E616B119EDDE06002E724D /* cfpg */,
+				F1E616C719EDDE06002E724D /* cfpgTests */,
+				F1E616B019EDDE06002E724D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F1E6168219EDCA2B002E724D /* Products */ = {
+		F1E616B019EDDE06002E724D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F1E6168119EDCA2B002E724D /* CFPG.app */,
-				F1E6169619EDCA2B002E724D /* CFPGTests.xctest */,
+				F1E616AF19EDDE06002E724D /* cfpg.app */,
+				F1E616C419EDDE06002E724D /* cfpgTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F1E6168319EDCA2B002E724D /* CFPG */ = {
+		F1E616B119EDDE06002E724D /* cfpg */ = {
 			isa = PBXGroup;
 			children = (
-				F1E6168619EDCA2B002E724D /* AppDelegate.swift */,
-				F1E6168819EDCA2B002E724D /* ViewController.swift */,
-				F1E6168A19EDCA2B002E724D /* Main.storyboard */,
-				F1E6168D19EDCA2B002E724D /* Images.xcassets */,
-				F1E6168F19EDCA2B002E724D /* LaunchScreen.xib */,
-				F1E6168419EDCA2B002E724D /* Supporting Files */,
+				F1E616B419EDDE06002E724D /* AppDelegate.swift */,
+				F1E616B619EDDE06002E724D /* ViewController.swift */,
+				F1E616B819EDDE06002E724D /* Main.storyboard */,
+				F1E616BB19EDDE06002E724D /* Images.xcassets */,
+				F1E616BD19EDDE06002E724D /* LaunchScreen.xib */,
+				F1E616B219EDDE06002E724D /* Supporting Files */,
 			);
-			path = CFPG;
+			path = cfpg;
 			sourceTree = "<group>";
 		};
-		F1E6168419EDCA2B002E724D /* Supporting Files */ = {
+		F1E616B219EDDE06002E724D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F1E6168519EDCA2B002E724D /* Info.plist */,
+				F1E616B319EDDE06002E724D /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		F1E6169919EDCA2B002E724D /* CFPGTests */ = {
+		F1E616C719EDDE06002E724D /* cfpgTests */ = {
 			isa = PBXGroup;
 			children = (
-				F1E6169C19EDCA2B002E724D /* CFPGTests.swift */,
-				F1E6169A19EDCA2B002E724D /* Supporting Files */,
+				F1E616CA19EDDE06002E724D /* cfpgTests.swift */,
+				F1E616C819EDDE06002E724D /* Supporting Files */,
 			);
-			path = CFPGTests;
+			path = cfpgTests;
 			sourceTree = "<group>";
 		};
-		F1E6169A19EDCA2B002E724D /* Supporting Files */ = {
+		F1E616C819EDDE06002E724D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F1E6169B19EDCA2B002E724D /* Info.plist */,
+				F1E616C919EDDE06002E724D /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -115,60 +115,60 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F1E6168019EDCA2B002E724D /* CFPG */ = {
+		F1E616AE19EDDE06002E724D /* cfpg */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F1E616A019EDCA2B002E724D /* Build configuration list for PBXNativeTarget "CFPG" */;
+			buildConfigurationList = F1E616CE19EDDE06002E724D /* Build configuration list for PBXNativeTarget "cfpg" */;
 			buildPhases = (
-				F1E6167D19EDCA2B002E724D /* Sources */,
-				F1E6167E19EDCA2B002E724D /* Frameworks */,
-				F1E6167F19EDCA2B002E724D /* Resources */,
+				F1E616AB19EDDE06002E724D /* Sources */,
+				F1E616AC19EDDE06002E724D /* Frameworks */,
+				F1E616AD19EDDE06002E724D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = CFPG;
-			productName = CFPG;
-			productReference = F1E6168119EDCA2B002E724D /* CFPG.app */;
+			name = cfpg;
+			productName = cfpg;
+			productReference = F1E616AF19EDDE06002E724D /* cfpg.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F1E6169519EDCA2B002E724D /* CFPGTests */ = {
+		F1E616C319EDDE06002E724D /* cfpgTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F1E616A319EDCA2B002E724D /* Build configuration list for PBXNativeTarget "CFPGTests" */;
+			buildConfigurationList = F1E616D119EDDE06002E724D /* Build configuration list for PBXNativeTarget "cfpgTests" */;
 			buildPhases = (
-				F1E6169219EDCA2B002E724D /* Sources */,
-				F1E6169319EDCA2B002E724D /* Frameworks */,
-				F1E6169419EDCA2B002E724D /* Resources */,
+				F1E616C019EDDE06002E724D /* Sources */,
+				F1E616C119EDDE06002E724D /* Frameworks */,
+				F1E616C219EDDE06002E724D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F1E6169819EDCA2B002E724D /* PBXTargetDependency */,
+				F1E616C619EDDE06002E724D /* PBXTargetDependency */,
 			);
-			name = CFPGTests;
-			productName = CFPGTests;
-			productReference = F1E6169619EDCA2B002E724D /* CFPGTests.xctest */;
+			name = cfpgTests;
+			productName = cfpgTests;
+			productReference = F1E616C419EDDE06002E724D /* cfpgTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F1E6167919EDCA2B002E724D /* Project object */ = {
+		F1E616A719EDDE05002E724D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = elun;
 				TargetAttributes = {
-					F1E6168019EDCA2B002E724D = {
+					F1E616AE19EDDE06002E724D = {
 						CreatedOnToolsVersion = 6.0.1;
 					};
-					F1E6169519EDCA2B002E724D = {
+					F1E616C319EDDE06002E724D = {
 						CreatedOnToolsVersion = 6.0.1;
-						TestTargetID = F1E6168019EDCA2B002E724D;
+						TestTargetID = F1E616AE19EDDE06002E724D;
 					};
 				};
 			};
-			buildConfigurationList = F1E6167C19EDCA2B002E724D /* Build configuration list for PBXProject "CFPG" */;
+			buildConfigurationList = F1E616AA19EDDE05002E724D /* Build configuration list for PBXProject "cfpg" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -176,29 +176,29 @@
 				en,
 				Base,
 			);
-			mainGroup = F1E6167819EDCA2B002E724D;
-			productRefGroup = F1E6168219EDCA2B002E724D /* Products */;
+			mainGroup = F1E616A619EDDE05002E724D;
+			productRefGroup = F1E616B019EDDE06002E724D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F1E6168019EDCA2B002E724D /* CFPG */,
-				F1E6169519EDCA2B002E724D /* CFPGTests */,
+				F1E616AE19EDDE06002E724D /* cfpg */,
+				F1E616C319EDDE06002E724D /* cfpgTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F1E6167F19EDCA2B002E724D /* Resources */ = {
+		F1E616AD19EDDE06002E724D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1E6168C19EDCA2B002E724D /* Main.storyboard in Resources */,
-				F1E6169119EDCA2B002E724D /* LaunchScreen.xib in Resources */,
-				F1E6168E19EDCA2B002E724D /* Images.xcassets in Resources */,
+				F1E616BA19EDDE06002E724D /* Main.storyboard in Resources */,
+				F1E616BF19EDDE06002E724D /* LaunchScreen.xib in Resources */,
+				F1E616BC19EDDE06002E724D /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F1E6169419EDCA2B002E724D /* Resources */ = {
+		F1E616C219EDDE06002E724D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -208,46 +208,46 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F1E6167D19EDCA2B002E724D /* Sources */ = {
+		F1E616AB19EDDE06002E724D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1E6168919EDCA2B002E724D /* ViewController.swift in Sources */,
-				F1E6168719EDCA2B002E724D /* AppDelegate.swift in Sources */,
+				F1E616B719EDDE06002E724D /* ViewController.swift in Sources */,
+				F1E616B519EDDE06002E724D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F1E6169219EDCA2B002E724D /* Sources */ = {
+		F1E616C019EDDE06002E724D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1E6169D19EDCA2B002E724D /* CFPGTests.swift in Sources */,
+				F1E616CB19EDDE06002E724D /* cfpgTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		F1E6169819EDCA2B002E724D /* PBXTargetDependency */ = {
+		F1E616C619EDDE06002E724D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F1E6168019EDCA2B002E724D /* CFPG */;
-			targetProxy = F1E6169719EDCA2B002E724D /* PBXContainerItemProxy */;
+			target = F1E616AE19EDDE06002E724D /* cfpg */;
+			targetProxy = F1E616C519EDDE06002E724D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		F1E6168A19EDCA2B002E724D /* Main.storyboard */ = {
+		F1E616B819EDDE06002E724D /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F1E6168B19EDCA2B002E724D /* Base */,
+				F1E616B919EDDE06002E724D /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		F1E6168F19EDCA2B002E724D /* LaunchScreen.xib */ = {
+		F1E616BD19EDDE06002E724D /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F1E6169019EDCA2B002E724D /* Base */,
+				F1E616BE19EDDE06002E724D /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -255,7 +255,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F1E6169E19EDCA2B002E724D /* Debug */ = {
+		F1E616CC19EDDE06002E724D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -297,7 +297,7 @@
 			};
 			name = Debug;
 		};
-		F1E6169F19EDCA2B002E724D /* Release */ = {
+		F1E616CD19EDDE06002E724D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,27 +332,27 @@
 			};
 			name = Release;
 		};
-		F1E616A119EDCA2B002E724D /* Debug */ = {
+		F1E616CF19EDDE06002E724D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = CFPG/Info.plist;
+				INFOPLIST_FILE = cfpg/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		F1E616A219EDCA2B002E724D /* Release */ = {
+		F1E616D019EDDE06002E724D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = CFPG/Info.plist;
+				INFOPLIST_FILE = cfpg/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		F1E616A419EDCA2B002E724D /* Debug */ = {
+		F1E616D219EDDE06002E724D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -364,14 +364,14 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = CFPGTests/Info.plist;
+				INFOPLIST_FILE = cfpgTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CFPG.app/CFPG";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/cfpg.app/cfpg";
 			};
 			name = Debug;
 		};
-		F1E616A519EDCA2B002E724D /* Release */ = {
+		F1E616D319EDDE06002E724D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -379,42 +379,42 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = CFPGTests/Info.plist;
+				INFOPLIST_FILE = cfpgTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CFPG.app/CFPG";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/cfpg.app/cfpg";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F1E6167C19EDCA2B002E724D /* Build configuration list for PBXProject "CFPG" */ = {
+		F1E616AA19EDDE05002E724D /* Build configuration list for PBXProject "cfpg" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F1E6169E19EDCA2B002E724D /* Debug */,
-				F1E6169F19EDCA2B002E724D /* Release */,
+				F1E616CC19EDDE06002E724D /* Debug */,
+				F1E616CD19EDDE06002E724D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F1E616A019EDCA2B002E724D /* Build configuration list for PBXNativeTarget "CFPG" */ = {
+		F1E616CE19EDDE06002E724D /* Build configuration list for PBXNativeTarget "cfpg" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F1E616A119EDCA2B002E724D /* Debug */,
-				F1E616A219EDCA2B002E724D /* Release */,
+				F1E616CF19EDDE06002E724D /* Debug */,
+				F1E616D019EDDE06002E724D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		F1E616A319EDCA2B002E724D /* Build configuration list for PBXNativeTarget "CFPGTests" */ = {
+		F1E616D119EDDE06002E724D /* Build configuration list for PBXNativeTarget "cfpgTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F1E616A419EDCA2B002E724D /* Debug */,
-				F1E616A519EDCA2B002E724D /* Release */,
+				F1E616D219EDDE06002E724D /* Debug */,
+				F1E616D319EDDE06002E724D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F1E6167919EDCA2B002E724D /* Project object */;
+	rootObject = F1E616A719EDDE05002E724D /* Project object */;
 }

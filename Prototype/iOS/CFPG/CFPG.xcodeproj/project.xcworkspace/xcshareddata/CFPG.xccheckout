@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>7A0B2C3F-C1AA-489D-A0B9-88667349ED08</string>
+	<string>1D61221F-DECE-4681-961E-1D81D8A5E381</string>
 	<key>IDESourceControlProjectName</key>
-	<string>CFPG</string>
+	<string>cfpg</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>380EC42FE64422A8B722DEEEB6DD0F88B36FAE60</key>
 		<string>https://github.com/dactrtr/CFPG.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Prototype/iOS/CFPG/CFPG.xcodeproj</string>
+	<string>Prototype/iOS/cfpg/cfpg.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>380EC42FE64422A8B722DEEEB6DD0F88B36FAE60</key>

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CFPG.xcscheme</key>
+		<key>cfpg.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>F1E6168019EDCA2B002E724D</key>
+		<key>F1E616AE19EDDE06002E724D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F1E6169519EDCA2B002E724D</key>
+		<key>F1E616C319EDDE06002E724D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
